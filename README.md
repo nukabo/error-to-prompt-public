@@ -68,7 +68,7 @@ ErrorToPrompt provides a dedicated settings page allowing you to configure:
 
 ## Contributing
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon) for guidelines on how to submit code changes, bug reports, or feature requests.
+Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit code changes, bug reports, or feature requests.
 
 ## License
 
