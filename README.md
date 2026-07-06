@@ -66,10 +66,6 @@ ErrorToPrompt provides a dedicated settings page allowing you to configure:
 * **Routing Details:** Configure whether to hide or show the classification confidence percentages and detected specialization in the generated prompt.
 * **Last Prompt Storage:** Choose whether the extension stores the last generated prompt text locally for inspector access or keeps it privacy-first (metadata-only).
 
-## Contributing
-
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit code changes, bug reports, or feature requests.
-
 ## License
 
 MIT
